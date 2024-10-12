@@ -30,5 +30,5 @@
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" hspace="15"/></a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" hspace="15"/></a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" hspace="15"/></a>
-  <a target="blank"><img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies-thumbnail.png" width="50" height="50" hspace="15"/></a>
+  <a target="blank"><img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies-thumbnail.png" hspace="15"/></a>
 </p>
