@@ -3,7 +3,7 @@
 
 - 📫 Contact me via: **pqbao2105@gmail.com**
 
-- 📄 Know about my experiences via: [Portfolio](https://sites.google.com/d/1eZ4NqAhOB6bGmHK9Ym2Z6vKEr40JOpvx/p/1AjtqEVCaXcO9TXzgAGCLOYxj2xaUT3WN/edit)
+- 📄 Know about my experiences via: [Portfolio](https://sites.google.com/view/baos-portfolio/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
