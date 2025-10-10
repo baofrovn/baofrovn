@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
-<h3 align="center">I'm currently a student at VNU-HCM High school for the Gifted</h3>
 
 - 📫 Contact me via: **pqbao2105@gmail.com**
 
@@ -14,7 +13,6 @@
 <p align="left">
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" hspace="15"/> </a>
-  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" hspace="15"/> </a>
 </p>
 <h3 align="left">Artificial Intelligence Skills:</h3>
@@ -23,11 +21,4 @@
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" hspace="15"/></a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" hspace="15"/> </a>
-</p>
-
-<h3 align="left"> Developer Tools:</h3>
-<p align="left"> 
-  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" hspace="15"/></a>
-  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" hspace="15"/></a>
-  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" hspace="15"/></a>
 </p>
