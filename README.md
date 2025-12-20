@@ -2,7 +2,7 @@
 
 - 📫 Contact me via: **pqbao2105@gmail.com**
 
-- 📄 Know about my experiences via: [CV](https://drive.google.com/drive/u/0/folders/1M-T9pmmVcDjoLQ5swHekn98gIB0S-wC_)
+- 📄 Know about my experiences via: [CV]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
