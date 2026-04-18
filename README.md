@@ -14,10 +14,9 @@
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" hspace="15"/> </a>
-</p>
-<h3 align="left">Artificial Intelligence Skills:</h3>
-
-<p align="left">
+  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="50" height="50" hspace="15"/> </a>
+  <a target="blank">< img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="50" height="50" hspace="15"/> </a>
+  <a target="blank">< img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50" hspace="15"/></a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" hspace="15"/></a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" hspace="15"/> </a>
   <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" hspace="15"/> </a>
