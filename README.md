@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
+<p><strong>Computer Science @ University of South Florida</strong></p>
 
 - 📫 Contact me via: **pqbao2105@gmail.com**
 
